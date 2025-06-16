@@ -9,5 +9,5 @@
 
 ## Licensing
 
-- Code in this project is under the MIT License.
+- This repository is under the MIT License.
 - The dataset in the `Sales Data/` folder is under the [CC BY-NC-SA 3.0 license](https://creativecommons.org/licenses/by-nc-sa/3.0/).
