@@ -60,6 +60,27 @@ This fact, along with the fact that no dublicate rows were found, indicates that
 
     
 #### 2. Discriptive statistics for some of the numerical variables at the **order item-level** (row-level).
+
+- Removal of Cancelled, On Hold and Disputed orders was done, in order to analysize the variables.
+
+- The average quantity ordered (QUANTITYORDERED) for each item in an order is approximately 34,93 ± 9,36 units.
+The distribution appears to be approximately symmetric (skewness ≈ 0,24), but with a slight platykurtic shape (kurtosis ≈ -0,08), indicating a flatter shape with light tails, thus suggesting slightly less prone towards outliers distribution, compared to the normal distribution.
+
+- The average unit price (PRICEEACH) for each item in an order is approximately 83,64 ± 20,24 currency.
+The distribution appears to be moderately to highly left-skewed (skewness ≈ -0,94), due to the fact that, as per the dataset's author's comments, prices over 100 are capped at 100 currency causing most of the prices to crowd at the upper end of the distribution.
+It also appears to have a slightly platykurtic shape (kurtosis ≈ -0,39), indicating a flatter shape with lighter tails, thus suggesting it is slightly less prone to outliers, compared to the normal distribution.
+
+- The average sales (SALES) for each item in an order is approximately 3544,38 ± 1819,72 currency.
+The distribution appears to be highly right-skewed (skewness ≈ 1,12), indicating a tendency for a few higher priced sales to pull the mean upwards.
+It also appears to have a highly leptokurtic shape (kurtosis ≈ 1,50), suggesting it is peaked and more prone to outliers, compared to the normal distribution.
+
+- The average Manufacturer's Suggested Retail Price (MSRP) for each item in an order is approximately 100,89 ± 40,44 currency.
+The distribution appears to be moderately right-skewed (skewness ≈ 0,58), indicating a tendency for a few higher priced units to pull the mean upwards
+It also appears to have a slightly platykurtic shape (kurtosis ≈ -0,15, suggesting it is flatter and lightly less prone to outliers, compared to the normal distribution.
+
+- Since on average MSRP > PRICEEACH, then that means that the business on average sells bellow the full price of each product.
+
+
     
 #### 3. Discriptive statistics for some of the numerical variables at the **order-level**.
     
