@@ -118,39 +118,112 @@ The distribution appears to be approximately symmetric (skewness ≈ 0,01), but 
 ### **A. Seasonality**
   
 #### 1. Quick summary of **total item sales** over the years by each **quarter**.
+
+- Removal of Cancelled, On Hold and Disputed orders was done, in order to analysize the variables.
+- Data for Q3 and Q4 in 2005 is not available. Insights for 2005 will be limited.
+- Sales in 2004 were higher than 2003, on average.
+- Best sales performance was in Q4 for both 2003 and 2004, but in Q1 for 2005.
+- Worst sales performance in Q1 for 2003, Q2 for 2004 and 2005.
+- Overall best quarter was Q4 in 2004 and worst Q1 in 2003.
+
     
 #### 2. Average **monthly discount rate** for each **product line**.
-    
+
+- Negative discounts mean that products are on average sold above the MSRP, meaning that they are overcharged.
+- On average, Trains are overcharged, but Classic Cars are discounted.
+- Motorcycles, Trucks and Buses are, on average, discounted.
+- The most overcharges are happening in December for Trains, sold on average 32% more than the orginal price.
+- The biggest discount happens in June for Classic Cars, with a 23% discount.
+- Most months Ships are sold 
 
 
 ### **B. Sales and Revenue**
   
 #### 1. Top 5 **countries** and **regions** that generate the **most revenue** from purchases.
+
+- Breaking down revenue by country, USA by far generates the most revenue.
+- Breaking down revenue by region,Europe generates the most revenue, followed by North America.
+- Since only 4 regions' data are available Japan generates the least revenue.
+
     
 #### 2. **Average order value** by **country**.
+
+- Even though Switzerland is among the two countries with the least orders (2 to be exact), on average the most expensive orders are placed from there.
+- While Belgium has a total 7 orders placed they are the least expensive, on average.
+- Even though by far the most orders are placed from the USA, the average order value ranks around the middle compared to the other countries.
+
     
 #### 3. Top 10 **countries** by **order volume**.
-    
+
+- The most volume is ordered by USA, complying with the fact that most orders are placed from there.
+- The least volume is ordered by Ireland, complying with the fact that Ireland, along with Switzerland, are among the two countries with least amount of orders placed.
+- Switzerland is among the bottom 4 countries with the least total order volume.
+However, considering that the average order value from Switzerland is the highest, this suggests that the items ordered tend to be more expensive. Still, this assumption warrants further investigation.
 
 
 ### **C. Customer Behaviour**
   
 #### 1. Top and bottom 5 **customers** by **orders** placed.
+
+- Euro Shopping Channel has placed the most orders with most ordered items being Classic Cars, while least ordered items being Trains.
+- Bavarian Collectables Imports, Co. is the only one-time customer. In the order the most ordered items were Planes, while the least ordered items were Ships.
+- Except from Bavarian Collectables Imports, Co. every other customer is a return-customer.
+
     
 #### 2. Top and bottom 5 customers by **average individual** order item **sales**.
+
+- Super Scale Inc. orders on average the most expensive individual order items, while Bavarian Collectables Imports, Co. orders on average the least expensive individual order items.
+- Classic Cars seem to be the most ordered items for the top 5 customers by average item sales, while Planes, Vintage Cars and Classic Cars seem to be the most ordered by the bottom 5 customers.
+- Ships, Vintage Cars, Planes and Trains seem to be the least ordered items for the top 5 customers by average item sales, while Ships, Classic Cars and Vintage Cars seem to be the least ordered by the bottom 5 customers.
+ Bavarian Collectables Imports, Co. is the only one-time customer and also the one with least average order item value.
+- Even though Euro Shopping Channel has placed the most orders, the customer has not placed in the top 5 customers.
+
+
     
 #### 3. **Countries** sorted from the highest to least amount of **return customers**.
-    
+
+- USA has by far the most return customers, considering the fact that by far the most placed orders are done from there.
+- France ranks second in both total orders and return customers, showing a consistent pattern between order activity and customer loyalty.
+- All other countries with return customers have fewer than 10 return customers each, highlighting a steep drop-off beyond the top two countries.
+
+
+
 #### 4. Most popular **product lines** by **region** and **country**.
-    
+
+- Classic Cars are by far the most ordered product lines in the whole dataset, but also for most countries.
+- Vintage Cars are most ordered by Australia, Belgium and Italy.
+- Trucks and Buses are most ordered by Canada.
+- Planes are most ordered by Japan.
+- Motorcycles and Ships did not show up as most ordered by none of the countries.
+
+
 
 
 ### **D. Product-Level Analysis**
   
 #### 1. Top and bottom 10 **most ordered products**.
+
+- The most ordered product is S18_3232, that belong to the Classic Cars line.
+- The least ordered products with same frequencies are S18_1749, S18_2248, S18_4409, S18_4933, S24_2887, S24_3969 that belong to the Vintage and Classic Cars lines.
+- The top 10 products are either in the Classic Cars or Trucks and Buses line.
+
     
-#### 2. Top and bottom 5 **products** by **order volume**. 
+#### 2. Top and bottom 5 **products** by **order volume**.
+
+- The product with the most ordered volume is S18_3232, that is also the most ordered product.
+- The product with the least ordered volume is S18_4933, the is part of the Classic Cars line.
+- Most products that are in the top 10 most ordered volume are part of the Trucks and Buses line, while for the bottom 10 they are part of either the Classis or Vintage Cars line.
+
     
 #### 3. Top **product lines** based on **total sales**.
+
+- Classic cars are by far the most sold products, followed by Vintage Cars.
+- Trains are by far the least sold products.
+
     
 #### 4. **Average discount rate** per **country** and **region**.
+
+- On average most orders are discounted, a fact encountered in Q.II.3. 
+- On average, by country the most discounted orders are for Switzerland (18,61%), while the least discounted orders are for Spain (6,68%).
+- On average, by territory the most discounted orders are for Japan (12,75%), while the least discounted orders are for APAC (8,60%).
+
