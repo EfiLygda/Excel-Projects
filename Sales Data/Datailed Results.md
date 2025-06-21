@@ -134,7 +134,6 @@ The distribution appears to be approximately symmetric (skewness ≈ 0.01), but 
 - Motorcycles, Trucks and Buses are, on average, discounted.
 - The most overcharges are happening in December for Trains, sold on average 32% more than the orginal price.
 - The biggest discount happens in June for Classic Cars, with a 23% discount.
-- Most months Ships are sold 
 
 
 ### **B. Sales and Revenue**
@@ -142,7 +141,7 @@ The distribution appears to be approximately symmetric (skewness ≈ 0.01), but 
 #### 1. Top 5 **countries** and **regions** that generate the **most revenue** from purchases.
 
 - Breaking down revenue by country, USA by far generates the most revenue.
-- Breaking down revenue by region,Europe generates the most revenue, followed by North America.
+- Breaking down revenue by region, Europe generates the most revenue, followed by North America.
 - Since only 4 regions' data are available Japan generates the least revenue.
 
     
@@ -226,4 +225,6 @@ However, considering that the average order value from Switzerland is the highes
 - On average most orders are discounted, a fact encountered in Q.II.3. 
 - On average, by country the most discounted orders are for Switzerland (18.61%), while the least discounted orders are for Spain (6.68%).
 - On average, by territory the most discounted orders are for Japan (12.75%), while the least discounted orders are for APAC (8.60%).
+
+# Brief Results
 
