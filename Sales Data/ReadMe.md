@@ -17,6 +17,8 @@ In this project, dynamic arrays were mostly used to answer the questions, withou
 
 - In `Detailed Results` the detailed insights from the data are located.
 
+TODO: TOC for results
+
 ## Tools Used
 
 `Microsoft Excel 365`
