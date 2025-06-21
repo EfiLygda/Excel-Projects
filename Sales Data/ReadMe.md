@@ -80,14 +80,18 @@ TODO
     
 
 
-
 ## Insights
 
 ### Data Overview
 
 - Order items for each order are listed in different rows, resulting to more than one rows for each order.
 - All observations in the dataset include relevant data, with most missing values occuring for the second adress line, state or postal code.
-  
+
+### Order Status
+- The vast majority of orders are shipped (93.16%), with a minority of them in process, cancelled, on hold, resolved or disputed.
+- Removal of Cancelled, On Hold and Disputed orders was done, in order to analize the sales variables.
+
+    
 ### Sales & Pricing Analysis
 - On average approximately 34.93 ± 9.36 units are ordered by product, but 320.91 ± 174.88 units by order.
 - On average approximately the price of a product ordered is 83.64 ± 20.24, but the total price of an order is approximately 768.37 ± 418.08.
@@ -95,7 +99,8 @@ TODO
 - On average approximately the MSRP of a product ordered is 100.89 ± 40.44, but the total price of an order is approximately 926.84 ± 509.24.
 - Since on average MSRP > price of each product, then that means that the business on average sells bellow the full price.
 - On average, outliers exist for item sales in the upper end of sales and quantity ordered.
-
+- On average, Trains are overcharged, but Classic Cars,  Motorcycles, Trucks and Buses are discounted.
+  
 ### Customer Behavior
 - Most frequently ordered products belong to the Classic Cars, Vintage Cars, and Motorcycles product lines.
 - Euro Shopping Channel has placed the most orders, with most ordered items being Classic Cars, while least ordered items being Trains.
@@ -112,7 +117,8 @@ This is caused by the fact that even though the most orders and order volume are
 Howeever, even though Switzerland is among the two countries with the least orders and also in the bottom 4 for volume ordered, on average the most expensive orders are placed from there, while Ireland has the least volume ordered among all countries.
 - USA has by far the most return customers, considering the fact that by far the most placed orders are done from there.
 - France ranks second in both total orders and return customers, showing a consistent pattern between order activity and customer loyalty.
-
+- On average, the most discounted orders by country, are for Switzerland (18.61%), while the least discounted orders are for Spain (6.68%).
+However, on average, the most discounted orders by territory are for Japan (12.75%), while the least discounted orders are for APAC (8.60%).
 
 ### Temporal Trends
 - Overall best quarter was Q4 in 2004 and worst Q1 in 2003.
@@ -121,13 +127,11 @@ Howeever, even though Switzerland is among the two countries with the least orde
 
   
 ### Product Line Insights
+- Classic cars are by far the most sold products, followed by Vintage Cars, while Trains are by far the least sold products.
 - Vintage Cars are most ordered by Australia, Belgium and Italy,  Trucks and Buses are most ordered by Canada,  Planes are most ordered by Japan, while for the rest of countries Classic Cars.
+- The most ordered product is S18_3232, that belong to the Classic Cars line, while the least ordered products are S18_1749, S18_2248, S18_4409, S18_4933, S24_2887, S24_3969 that belong to the Vintage and Classic Cars lines.
+- Most products that are in the top 10 most ordered volume are part of the Trucks and Buses line, while for the bottom 10 they are part of either the Classis or Vintage Cars line.
 
-### Order Status & Performance
-
-
-### Operational Insights
-- On average, Trains are overcharged, but Classic Cars,  Motorcycles, Trucks and Buses are discounted.
 
 
 ## License
