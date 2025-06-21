@@ -18,13 +18,13 @@ In this project, dynamic arrays were mostly used to answer the questions, withou
 - In `Detailed Results` the questions and the detailed insights infered from the data are located.
 
 
-[I. Indroduction to the Dataset](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#i-indroduction-to-the-dataset)
+- [I. Indroduction to the Dataset](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#i-indroduction-to-the-dataset)
 
-[II. Univariate Analysis](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#i%CE%B9-univariate-analysis)
+- [II. Univariate Analysis](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#i%CE%B9-univariate-analysis)
 
-[1. **Missing values** and **frequencies** for some of the categorical variables.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#1-missing-values-and-frequencies-for-some-of-the-categorical-variables)
+    - [1. **Missing values** and **frequencies** for some of the categorical variables.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#1-missing-values-and-frequencies-for-some-of-the-categorical-variables)
     
-[2. Discriptive statistics for some of the numerical variables at the **order item-level** (row-level).](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#2-discriptive-statistics-for-some-of-the-numerical-variables-at-the-order-item-level-row-level)
+    - [2. Discriptive statistics for some of the numerical variables at the **order item-level** (row-level).](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#2-discriptive-statistics-for-some-of-the-numerical-variables-at-the-order-item-level-row-level)
     
 [3. Discriptive statistics for some of the numerical variables at the **order-level**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#3-discriptive-statistics-for-some-of-the-numerical-variables-at-the-order-level)
     
