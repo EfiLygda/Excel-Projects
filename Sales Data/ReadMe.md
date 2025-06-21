@@ -17,7 +17,7 @@ By design, dynamic arrays were mostly used to answer the questions, without rely
 
 - In [`DetailedResults`](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#datailed-results) the questions and the detailed insights infered from the data are located.
 
-- In [FunctionsUsed](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/FunctionsUsed.md) the Excel 365 functions used in the project are presented, in detail.
+- In [`FunctionsUsed`](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/FunctionsUsed.md) the Excel 365 functions used in the project are presented, in detail.
 
 ## Tools Used
 
