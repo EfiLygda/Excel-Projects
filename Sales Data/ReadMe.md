@@ -15,57 +15,7 @@ In this project, dynamic arrays were mostly used to answer the questions, withou
     - `S1. Answers`: Contains the answers to the questions for the analysis.
     - `S2. Small Dashboard`: Contains a small dashboard providing a quick summary of the product lines by each order status
 
-- In `Detailed Results` the questions and the detailed insights infered from the data are located.
-
-
-- [I. Indroduction to the Dataset](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#i-indroduction-to-the-dataset)
-
-- [II. Univariate Analysis](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#i%CE%B9-univariate-analysis)
-
-    - [1. **Missing values** and **frequencies**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#1-missing-values-and-frequencies-for-some-of-the-categorical-variables)
-    
-    - [2. Discriptive statistics at the **order item-level** (row-level).](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#2-discriptive-statistics-for-some-of-the-numerical-variables-at-the-order-item-level-row-level)
-    
-    - [3. Discriptive statistics at the **order-level**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#3-discriptive-statistics-for-some-of-the-numerical-variables-at-the-order-level)
-    
-    - [4. **Extreme outliers** in item sales.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#4-extreme-outliers-in-item-sales)
-    
-- [**III. Multivariate Analysis**](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#ii%CE%B9-multivariate-analysis)
-
-    - [**A. Seasonality**](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#a-seasonality)
-  
-        - [1. **Total item sales** over the years by each **quarter**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#1-quick-summary-of-total-item-sales-over-the-years-by-each-quarter)
-    
-        - [2. Average **monthly discount rate** by **product line**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#2-average-monthly-discount-rate-for-each-product-line)
-    
-    - [**B. Sales and Revenue**](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#b-sales-and-revenue)
-  
-        - [1. Top 5 **countries** and **regions** by **revenue**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#1-top-5-countries-and-regions-that-generate-the-most-revenue-from-purchases)
-    
-        - [2. **Average order value** by **country**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#2-average-order-value-by-country)
-    
-        - [3. Top 10 **countries** by **order volume**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#3-top-10-countries-by-order-volume)
-    
-    - [**C. Customer Behaviour**](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#c-customer-behaviour)
-  
-        - [1. Top and bottom 5 **customers** by **orders** placed.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#1-top-and-bottom-5-customers-by-orders-placed)
-    
-        - [2. Top and bottom 5 customers by **average individual order item sales**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#2-top-and-bottom-5-customers-by-average-individual-order-item-sales)
-    
-        - [3. Sorted **Countries** by **return customers**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#3-countries-sorted-from-the-highest-to-least-amount-of-return-customers)
-    
-        - [4. Most popular **product lines** by **region** and **country**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#4-most-popular-product-lines-by-region-and-country)
-    
-    - [**D. Product-Level Analysis**](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#d-product-level-analysis)
-  
-        - [1. Top and bottom 10 **most ordered products**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#1-top-and-bottom-10-most-ordered-products)
-    
-        - [2. Top and bottom 5 **products** by **order volume**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#2-top-and-bottom-5-products-by-order-volume)
-    
-        - [3. Top **product lines** by **total sales**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#3-top-product-lines-based-on-total-sales)
-    
-        - [4. **Average discount rate** per **country** and **region**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#4-average-discount-rate-per-country-and-region)
-
+- In [`Detailed Results`](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#datailed-results) the questions and the detailed insights infered from the data are located.
 
 ## Tools Used
 
