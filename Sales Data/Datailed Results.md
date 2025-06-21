@@ -6,55 +6,55 @@
 
 - [II. Univariate Analysis](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#i%CE%B9-univariate-analysis)
 
-    - [1. **Missing values** and **frequencies**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#1-missing-values-and-frequencies-for-some-of-the-categorical-variables)
+    - [1. Missing values and frequencies.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#1-missing-values-and-frequencies-for-some-of-the-categorical-variables)
     
-    - [2. Discriptive statistics at the **order item-level** (row-level).](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#2-discriptive-statistics-for-some-of-the-numerical-variables-at-the-order-item-level-row-level)
+    - [2. Discriptive statistics at the order item-level (row-level).](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#2-discriptive-statistics-for-some-of-the-numerical-variables-at-the-order-item-level-row-level)
     
-    - [3. Discriptive statistics at the **order-level**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#3-discriptive-statistics-for-some-of-the-numerical-variables-at-the-order-level)
+    - [3. Discriptive statistics at the order-level.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#3-discriptive-statistics-for-some-of-the-numerical-variables-at-the-order-level)
     
-    - [4. **Extreme outliers** in item sales.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#4-extreme-outliers-in-item-sales)
+    - [4. Extreme outliers in item sales.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#4-extreme-outliers-in-item-sales)
     
-- [**III. Multivariate Analysis**](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#ii%CE%B9-multivariate-analysis)
+- [III. Multivariate Analysis](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#ii%CE%B9-multivariate-analysis)
 
-    - [**A. Seasonality**](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#a-seasonality)
+    - [A. Seasonality](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#a-seasonality)
   
-        - [1. **Total item sales** over the years by each **quarter**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#1-quick-summary-of-total-item-sales-over-the-years-by-each-quarter)
+        - [1. Total item sales over the years by each quarter.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#1-quick-summary-of-total-item-sales-over-the-years-by-each-quarter)
     
-        - [2. Average **monthly discount rate** by **product line**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#2-average-monthly-discount-rate-for-each-product-line)
+        - [2. Average monthly discount rate by product line.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#2-average-monthly-discount-rate-for-each-product-line)
     
-    - [**B. Sales and Revenue**](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#b-sales-and-revenue)
+    - [B. Sales and Revenue](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#b-sales-and-revenue)
   
-        - [1. Top 5 **countries** and **regions** by **revenue**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#1-top-5-countries-and-regions-that-generate-the-most-revenue-from-purchases)
+        - [1. Top 5 countries and regions by revenue.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#1-top-5-countries-and-regions-that-generate-the-most-revenue-from-purchases)
     
-        - [2. **Average order value** by **country**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#2-average-order-value-by-country)
+        - [2. Average order value by country.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#2-average-order-value-by-country)
     
-        - [3. Top 10 **countries** by **order volume**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#3-top-10-countries-by-order-volume)
+        - [3. Top 10 countries by order volume.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#3-top-10-countries-by-order-volume)
     
-    - [**C. Customer Behaviour**](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#c-customer-behaviour)
+    - [C. Customer Behaviour](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#c-customer-behaviour)
   
-        - [1. Top and bottom 5 **customers** by **orders** placed.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#1-top-and-bottom-5-customers-by-orders-placed)
+        - [1. Top and bottom 5 customers by orders placed.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#1-top-and-bottom-5-customers-by-orders-placed)
     
-        - [2. Top and bottom 5 customers by **average individual order item sales**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#2-top-and-bottom-5-customers-by-average-individual-order-item-sales)
+        - [2. Top and bottom 5 customers by average individual order item sales.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#2-top-and-bottom-5-customers-by-average-individual-order-item-sales)
     
-        - [3. Sorted **Countries** by **return customers**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#3-countries-sorted-from-the-highest-to-least-amount-of-return-customers)
+        - [3. Sorted Countries by return customers.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#3-countries-sorted-from-the-highest-to-least-amount-of-return-customers)
     
-        - [4. Most popular **product lines** by **region** and **country**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#4-most-popular-product-lines-by-region-and-country)
+        - [4. Most popular product lines by region and country.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#4-most-popular-product-lines-by-region-and-country)
     
-    - [**D. Product-Level Analysis**](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#d-product-level-analysis)
+    - [D. Product-Level Analysis](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#d-product-level-analysis)
   
-        - [1. Top and bottom 10 **most ordered products**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#1-top-and-bottom-10-most-ordered-products)
+        - [1. Top and bottom 10 most ordered products.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#1-top-and-bottom-10-most-ordered-products)
     
-        - [2. Top and bottom 5 **products** by **order volume**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#2-top-and-bottom-5-products-by-order-volume)
+        - [2. Top and bottom 5 products by order volume.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#2-top-and-bottom-5-products-by-order-volume)
     
-        - [3. Top **product lines** by **total sales**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#3-top-product-lines-based-on-total-sales)
+        - [3. Top product lines by total sales.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#3-top-product-lines-based-on-total-sales)
     
-        - [4. **Average discount rate** per **country** and **region**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#4-average-discount-rate-per-country-and-region)
+        - [4. Average discount rate per country and region.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#4-average-discount-rate-per-country-and-region)
 
 
 
 -------------------
 
-## **I. Indroduction to the Dataset**
+## I. Indroduction to the Dataset
 
 The number of rows of the dataset is 2823, while the number of columns is 25. 
 Bellow the column names and a brief descriction of each column is presented:
@@ -94,9 +94,9 @@ Bellow the column names and a brief descriction of each column is presented:
 > - There are discrepancies when calculating `SALES` as `QUANTITYORDERED * PRICEEACH`, since prices > 100 in `PRICEEACH` column are capped at 100, as per the [this discussion](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data/discussion/82824#1188157) on the dataset.
 
 
-## **IΙ. Univariate Analysis**
+## IΙ. Univariate Analysis
 
-#### 1. **Missing values** and **frequencies** for some of the categorical variables.
+#### 1. Missing values and frequencies.
 
 - All observations in the dataset include relevant data, with most missing values occuring for the second adress line, state and then postal code.
 
@@ -111,7 +111,7 @@ Bellow the column names and a brief descriction of each column is presented:
 - Madrid, Spain is the most frequent city by order count, with 31 orders recorded. This aligns with the broader trend of significant European participation in orders.
 
     
-#### 2. Discriptive statistics for some of the numerical variables at the **order item-level** (row-level).
+#### 2. Discriptive statistics at the order item-level (row-level).
 
 - Removal of Cancelled, On Hold and Disputed orders was done, in order to analize the variables.
 
@@ -134,7 +134,7 @@ It also appears to have a slightly platykurtic shape (kurtosis ≈ -0.15, sugges
 
 
     
-#### 3. Discriptive statistics for some of the numerical variables at the **order-level**.
+#### 3. Discriptive statistics at the order-level.
 
 - Removal of Cancelled, On Hold and Disputed orders was done, in order to analysize the variables.
 
@@ -156,18 +156,18 @@ The distribution appears to be approximately symmetric (skewness ≈ 0.01), but 
 
 
     
-#### 4. **Extreme outliers** in item sales.
+#### 4. Extreme outliers in item sales.
 
 - Using Z-score to identify outliers, 30 item sales were found. All of them were in the upper end of sales.
 - Using Interquartile Range to identify outliers, 81 item sales were found. All of them were in the upper end of sales.
 - On average, using both methods, outliers are in the upper end of sales and quantity. 
 
     
-## **IIΙ. Multivariate Analysis**
+## IIΙ. Multivariate Analysis
 
-### **A. Seasonality**
+### A. Seasonality
   
-#### 1. Quick summary of **total item sales** over the years by each **quarter**.
+#### 1. Total item sales over the years by each quarter.
 
 - Removal of Cancelled, On Hold and Disputed orders was done, in order to analysize the variables.
 - Data for Q3 and Q4 in 2005 is not available. Insights for 2005 will be limited.
@@ -177,7 +177,7 @@ The distribution appears to be approximately symmetric (skewness ≈ 0.01), but 
 - Overall best quarter was Q4 in 2004 and worst Q1 in 2003.
 
     
-#### 2. Average **monthly discount rate** for each **product line**.
+#### 2. Average monthly discount rate for each product line.
 
 - Negative discounts mean that products are on average sold above the MSRP, meaning that they are overcharged.
 - On average, Trains are overcharged, but Classic Cars are discounted.
@@ -186,23 +186,23 @@ The distribution appears to be approximately symmetric (skewness ≈ 0.01), but 
 - The biggest discount happens in June for Classic Cars, with a 23% discount.
 
 
-### **B. Sales and Revenue**
+### B. Sales and Revenue
   
-#### 1. Top 5 **countries** and **regions** that generate the **most revenue** from purchases.
+#### 1. Top 5 countries and regions by revenue.
 
 - Breaking down revenue by country, USA by far generates the most revenue.
 - Breaking down revenue by region, Europe generates the most revenue, followed by North America.
 - Since only 4 regions' data are available Japan generates the least revenue.
 
     
-#### 2. **Average order value** by **country**.
+#### 2. Average order value by country.
 
 - Even though Switzerland is among the two countries with the least orders (2 to be exact), on average the most expensive orders are placed from there.
 - While Belgium has a total 7 orders placed they are the least expensive, on average.
 - Even though by far the most orders are placed from the USA, the average order value ranks around the middle compared to the other countries.
 
     
-#### 3. Top 10 **countries** by **order volume**.
+#### 3. Top 10 countries by order volume.
 
 - The most volume is ordered by USA, complying with the fact that most orders are placed from there.
 - The least volume is ordered by Ireland, complying with the fact that Ireland, along with Switzerland, are among the two countries with least amount of orders placed.
@@ -210,16 +210,16 @@ The distribution appears to be approximately symmetric (skewness ≈ 0.01), but 
 However, considering that the average order value from Switzerland is the highest, this suggests that the items ordered tend to be more expensive. Still, this assumption warrants further investigation.
 
 
-### **C. Customer Behaviour**
+### C. Customer Behaviour
   
-#### 1. Top and bottom 5 **customers** by **orders** placed.
+#### 1. Top and bottom 5 customers by orders placed.
 
 - Euro Shopping Channel has placed the most orders with most ordered items being Classic Cars, while least ordered items being Trains.
 - Bavarian Collectables Imports, Co. is the only one-time customer. In the order the most ordered items were Planes, while the least ordered items were Ships.
 - Except from Bavarian Collectables Imports, Co. every other customer is a return-customer.
 
     
-#### 2. Top and bottom 5 customers by **average individual** order item **sales**.
+#### 2. Top and bottom 5 customers by average individual order item sales.
 
 - Super Scale Inc. orders on average the most expensive individual order items, while Bavarian Collectables Imports, Co. orders on average the least expensive individual order items.
 - Classic Cars seem to be the most ordered items for the top 5 customers by average item sales, while Planes, Vintage Cars and Classic Cars seem to be the most ordered by the bottom 5 customers.
@@ -229,7 +229,7 @@ However, considering that the average order value from Switzerland is the highes
 
 
     
-#### 3. **Countries** sorted from the highest to least amount of **return customers**.
+#### 3. Sorted countries by return customers.
 
 - USA has by far the most return customers, considering the fact that by far the most placed orders are done from there.
 - France ranks second in both total orders and return customers, showing a consistent pattern between order activity and customer loyalty.
@@ -237,7 +237,7 @@ However, considering that the average order value from Switzerland is the highes
 
 
 
-#### 4. Most popular **product lines** by **region** and **country**.
+#### 4. Most popular product lines by region and country.
 
 - Classic Cars are by far the most ordered product lines in the whole dataset, but also for most countries.
 - Vintage Cars are most ordered by Australia, Belgium and Italy.
@@ -248,29 +248,29 @@ However, considering that the average order value from Switzerland is the highes
 
 
 
-### **D. Product-Level Analysis**
+### D. Product-Level Analysis
   
-#### 1. Top and bottom 10 **most ordered products**.
+#### 1. Top and bottom 10 most ordered products.
 
 - The most ordered product is S18_3232, that belong to the Classic Cars line.
 - The least ordered products with same frequencies are S18_1749, S18_2248, S18_4409, S18_4933, S24_2887, S24_3969 that belong to the Vintage and Classic Cars lines.
 - The top 10 products are either in the Classic Cars or Trucks and Buses line.
 
     
-#### 2. Top and bottom 5 **products** by **order volume**.
+#### 2. Top and bottom 5 products by order volume.
 
 - The product with the most ordered volume is S18_3232, that is also the most ordered product.
 - The product with the least ordered volume is S18_4933, the is part of the Classic Cars line.
 - Most products that are in the top 10 most ordered volume are part of the Trucks and Buses line, while for the bottom 10 they are part of either the Classis or Vintage Cars line.
 
     
-#### 3. Top **product lines** based on **total sales**.
+#### 3. Top product lines based on total sales.
 
 - Classic cars are by far the most sold products, followed by Vintage Cars.
 - Trains are by far the least sold products.
 
     
-#### 4. **Average discount rate** per **country** and **region**.
+#### 4. Average discount rate per country and region.
 
 - On average most orders are discounted, a fact encountered in Q.II.3. 
 - On average, by country the most discounted orders are for Switzerland (18.61%), while the least discounted orders are for Spain (6.68%).
