@@ -44,9 +44,9 @@ Grouping, aggregation, sorting and ranking was done, when necessary.
 |Group| Function Name |Usage|
 |-----|---------------|-----|
 |Math & Statistics|`MAX`/`MIN`|Min/max calculations|
-||`SUM`/`SUMIFS`|Filtered and non-filtered sum calculations|
-||`COUNT`/`COUNTA`/`COUNTIFS`/`COUNTBLANK`|Filtered and non-filtered count calculations|
-||`AVERAGE`/`AVERAGEIFS`|Filtered and non-filtered calculations of averages|
+||`SUM`/`SUMIFS`|Used for filtered/non-filtered sum calculations|
+||`COUNT`/`COUNTA`/`COUNTIFS`/`COUNTBLANK`|Used for filtered/non-filtered count calculations|
+||`AVERAGE`/`AVERAGEIFS`|Used for filtered/non-filtered calculations of averages|
 ||`STDEV.S`/`MEDIAN`/`SKEW`/`KURT`|Descriptive statistics for studying distribution shape|
 ||`QUARTILE.INC`|Quartile calculations for outlier detection|
 ||||
@@ -57,24 +57,24 @@ Grouping, aggregation, sorting and ranking was done, when necessary.
 ||`TEXTJOIN`|Used for joining text in ranges|
 ||`TEXT`/`VALUE`|Converting to text or numerical|
 ||||
-|Reference & Lookup|`COLUMNS`/`ROWS`|Calculate number of |
-||`FILTER`/`INDEX`/`TAKE`||
-||`MATCH`||
-||`VLOOKUP`||
-||`OFFSET`||
+|Reference & Lookup|`COLUMNS`/`ROWS`|Calculate number of columns or rows|
+||`FILTER`/`INDEX`/`TAKE`|Filter table when need, usually used in combination|
+||`MATCH`|Usually finding exact match in combination with the above|
+||`VLOOKUP`|Lookup value vertically and extract the value in another column|
+||`OFFSET`|Used for automating calculation when used with the main table in file|
 ||||
-|Dynamic Arrays & Sorting|`SORT`||
-||`UNIQUE`||
-||`TRANSPOSE`||
-||`HSTACK`||
+|Dynamic Arrays & Sorting|`SORT`|Used when sorting (ascending or descending)|
+||`UNIQUE`|Finding unique functions|
+||`TRANSPOSE`|Transposing range|
+||`HSTACK`|Stacking columns in one table horizontally|
 ||||
-|Data Grouping|`GROUPBY`/`PIVOTBY`||
+|Data Grouping|`GROUPBY`/`PIVOTBY`|`GROUPBY` is mainly used for grouping, while `PIVOTBY` is used in III.A.2|
 ||||
-|Programming|`MAP`/`LAMBDA`||
-||`CHOOSE`||
-||`SEQUENCE`||
-||`HYPERLINK`||
-||`LET`||
+|Programming|`MAP`/`LAMBDA`|Used in combination to map the function defined in `LAMBDA`. Also used with `GROUPBY`|
+||`CHOOSE`|Used to build dynamic tables or plots|
+||`SEQUENCE`|Used in combination with `INDEX` to slice tables|
+||`HYPERLINK`|Used for building Table of Contents|
+||`LET`|Mainly used to build complicated formulas. Enables procedural-style programming within Excel formulas.|
 
 
    
