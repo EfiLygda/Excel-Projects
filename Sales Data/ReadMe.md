@@ -30,7 +30,7 @@ The whole project is located in workbook `Sales_Data_Project.xlsx`, which contai
 
 **II. Univariate Analysis**
 
-1. Missing values and frequencies for some of the categorical variables.
+1. *Missing values* and *frequencies* for some of the categorical variables.
     
 2. Discriptive statistics for some of the numerical variables at the order item-level (row-level).
     
@@ -38,41 +38,41 @@ The whole project is located in workbook `Sales_Data_Project.xlsx`, which contai
     
 4. Extreme outliers in item sales.
     
-II. Multivariate Analysis
+**II. Multivariate Analysis**
 
-  A. Seasonality
+**A. Seasonality**
   
-    1. Quick summary of total item sales over the years by each quarter.
+1. Quick summary of total item sales over the years by each quarter.
     
-    2. Average monthly discount rate for each product line.
+2. Average monthly discount rate for each product line.
     
-  B. Sales and Revenue
+**B. Sales and Revenue**
   
-    1. Top 5 countries and regions that generate the most revenue from purchases.
+1. Top 5 countries and regions that generate the most revenue from purchases.
     
-    2. Calculating average order value by country.
+2. Calculating average order value by country.
     
-    3. Top 10 countries by order volume
+3. Top 10 countries by order volume
     
-  C. Customer Behaviour
+**C. Customer Behaviour**
   
-    1. Top and bottom 5 customers by most and least orders, respectively.
+1. Top and bottom 5 customers by most and least orders, respectively.
     
-    2. Top and bottom 5 customers by average individual order item sales.
+2. Top and bottom 5 customers by average individual order item sales.
     
-    3. Countries sorted from the highest to least amount of return customers?
+3. Countries sorted from the highest to least amount of return customers?
     
-    4. Most popular product lines by region and country?
+4. Most popular product lines by region and country?
     
-  D. Product-Level Analysis
+**D. Product-Level Analysis**
   
-    1. Top and bottom 10 most ordered products, respectively.
+1. Top and bottom 10 most ordered products, respectively.
     
-    2. Top and bottom 5 products by order volume. 
+2. Top and bottom 5 products by order volume. 
     
-    3. Top product lines based on total sales.
+3. Top product lines based on total sales.
     
-    4. Average discount percentage per country and region.
+4. Average discount percentage per country and region.
     
 
 
