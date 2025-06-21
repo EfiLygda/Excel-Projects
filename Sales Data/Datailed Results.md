@@ -38,8 +38,10 @@ Bellow the column names and a brief descriction of each column is presented:
 | `DEALSIZE`         | Deal size classification (Small, Medium, Large)            |
 
 
-**Note:** By grouping the data by `ORDERNUMBER`, it is noted that `total orders` < `number of rows`.
-This fact, along with the fact that no dublicate rows were found, indicates that each product purchased in an order, is listed in a different row than the other ones, with the `ORDERLINENUMBER` column indicating the way that the products were placed in the order.
+> [!NOTE]
+> - By grouping the data by `ORDERNUMBER`, it is noted that `total orders` < `number of rows`.
+>  This fact, along with the fact that no dublicate rows were found, indicates that each product purchased in an order, is listed in a different row than the other ones, with the `ORDERLINENUMBER` column indicating the way that the products were placed in the order.
+> - `PRICEEACH` column for prices > 100 is capped as 100, as per the [Dataset Author's comment on Sales column](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data/discussion/82824#1188157)
 
 
 ## **IΙ. Univariate Analysis**
@@ -83,9 +85,32 @@ It also appears to have a slightly platykurtic shape (kurtosis ≈ -0,15, sugges
 
     
 #### 3. Discriptive statistics for some of the numerical variables at the **order-level**.
+
+- Removal of Cancelled, On Hold and Disputed orders was done, in order to analysize the variables.
+
+- The average quantity ordered (QUANTITYORDERED) for each order is approximately 320,91 ± 174,88 products.
+The distribution appears to be approximately symmetric (skewness ≈ 0,08), but with a highly platykurtic shape (kurtosis ≈ -1,02) indicating a flatter shape with lighter tails, thus suggesting it is less prone to outliers, compared to the normal distribution.
+
+- The average total unit price (PRICEEACH) in each order is approximately 768,37 ± 418,08 currency.
+The distribution appears to be approximately symmetric (skewness ≈ 0,00), but with a highly platykurtic shape (kurtosis ≈ -1,14) indicating a flatter shape with lighter tails, thus suggesting it is less prone to outliers, compared to the normal distribution.
+
+- The average sales (SALES) for each order is approximately 32559,38 ± 17691,56 currency.
+The distribution appears to be approximately symmetric (skewness ≈ 0,03), but with a moderately to highly platykurtic shape (kurtosis ≈ -0,93) indicating a flatter shape with lighter tails, thus suggesting it is less prone to outliers, compared to the normal distribution.
+
+- The average Manufacturer's Suggested Retail Price (MSRP) for each order is approximately 926,84 ± 509,24 products.
+The distribution appears to be approximately symmetric (skewness ≈ 0,01), but with a platykurtic shape (kurtosis ≈ -1,06) indicating a flatter shape with lighter tails, thus suggesting it is less prone to outliers, compared to the normal distribution.
+
+- Since on average MSRP > PRICEEACH, then that means that the business on average sells bellow the full price of each order.
+
+- Comparing the analysis done at the item-level with the analysis done at order-level, the distributions at the order level appear more robust  by being generally more symmetric and significantly less prone to outliers.
+
+
     
 #### 4. **Extreme outliers** in item sales.
 
+- Using Z-score to identify outliers, 30 item sales were found. All of them were in the upper end of sales.
+- Using Interquartile Range to identify outliers, 81 item sales were found. All of them were in the upper end of sales.
+- On average, using both methods, outliers are in the upper end of sales and quantity. 
 
     
 ## **IIΙ. Multivariate Analysis**
