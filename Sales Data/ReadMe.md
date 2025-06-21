@@ -26,15 +26,15 @@ In this project, dynamic arrays were mostly used to answer the questions, withou
     
     - [2. Discriptive statistics for some of the numerical variables at the **order item-level** (row-level).](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#2-discriptive-statistics-for-some-of-the-numerical-variables-at-the-order-item-level-row-level)
     
-[3. Discriptive statistics for some of the numerical variables at the **order-level**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#3-discriptive-statistics-for-some-of-the-numerical-variables-at-the-order-level)
+    - [3. Discriptive statistics for some of the numerical variables at the **order-level**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#3-discriptive-statistics-for-some-of-the-numerical-variables-at-the-order-level)
     
-[4. **Extreme outliers** in item sales.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#4-extreme-outliers-in-item-sales)
+    - [4. **Extreme outliers** in item sales.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#4-extreme-outliers-in-item-sales)
     
-[**III. Multivariate Analysis**](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#ii%CE%B9-multivariate-analysis)
+- [**III. Multivariate Analysis**](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#ii%CE%B9-multivariate-analysis)
 
-[**A. Seasonality**](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#a-seasonality)
+    - [**A. Seasonality**](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#a-seasonality)
   
-[1. Quick summary of **total item sales** over the years by each **quarter**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#1-quick-summary-of-total-item-sales-over-the-years-by-each-quarter)
+        - [1. Quick summary of **total item sales** over the years by each **quarter**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#1-quick-summary-of-total-item-sales-over-the-years-by-each-quarter)
     
 [2. Average **monthly discount rate** for each **product line**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#2-average-monthly-discount-rate-for-each-product-line)
     
