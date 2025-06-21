@@ -17,9 +17,12 @@ In this project, dynamic arrays were mostly used to answer the questions, withou
 
 - In `Detailed Results` the questions and the detailed insights infered from the data are located.
 
-TODO: TOC for results
+
 [I. Indroduction to the Dataset](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#i-indroduction-to-the-dataset)
-**II. Univariate Analysis**
+
+
+[**II. Univariate Analysis**](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#i%CE%B9-univariate-analysis)
+
 
 1. **Missing values** and **frequencies** for some of the categorical variables.
     
