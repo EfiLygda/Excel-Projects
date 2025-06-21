@@ -8,13 +8,14 @@ In this project, dynamic arrays were mostly used to answer the questions, withou
 
 ## Project Structure
 
-The whole project is located in workbook `Sales_Data_Project.xlsx`, which contains the following four worksheets:
+- The whole project is located in workbook `Sales_Data_Project.xlsx`, which contains the following four worksheets:
 
-- `Table of Contents`: A simple TOC that links to the location of the dataset, each question and the small dashboard included.
-- `Data`: The sales dataset used for the analysis.
-- `S1. Answers`: Contains the answers to the questions for the analysis.
-- `S2. Small Dashboard`: Contains a small dashboard providing a quick summary of the product lines by each order status
+    - `Table of Contents`: A simple TOC that links to the location of the dataset, each question and the small dashboard included.
+    - `Data`: The sales dataset used for the analysis.
+    - `S1. Answers`: Contains the answers to the questions for the analysis.
+    - `S2. Small Dashboard`: Contains a small dashboard providing a quick summary of the product lines by each order status
 
+- In `Detailed Results` the detailed insights from the data are located.
 
 ## Tools Used
 
