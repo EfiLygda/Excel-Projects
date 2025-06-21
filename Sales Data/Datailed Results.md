@@ -17,11 +17,11 @@ Bellow the column names and a brief descriction of each column is presented:
 | `ORDERLINENUMBER`  | Line item number in the order                              |
 | `SALES`            | Total sales amount                                         |
 | `ORDERDATE`        | Date when the order was placed                             |
-| `STATUS`           | Current order status (Shipped, Cancelled etc.)             |
+| `STATUS`           | Current order status (`Shipped`, `Cancelled` etc.)         |
 | `QTR_ID`           | Quarter number of the year (1, 2, 3, 4)                    |
 | `MONTH_ID`         | Month number (1–12)                                        |
 | `YEAR_ID`          | Year (2003, 2004, 2005)                                    |
-| `PRODUCTLINE`      | Product category or line (Classic Cars, Motorcycles etc.)  |
+| `PRODUCTLINE`      | Product category or line (`Classic Cars`, `Motorcycles` etc.)  |
 | `MSRP`             | Manufacturer's Suggested Retail Price                      |
 | `PRODUCTCODE`      | Unique product identifier                                  |
 | `CUSTOMERNAME`     | Name of the customer                                       |
@@ -50,9 +50,9 @@ Bellow the column names and a brief descriction of each column is presented:
 
 - All observations in the dataset include relevant data, with most missing values occuring for the second adress line, state and then postal code.
 
-- The vast majority of orders are shipped (93,16%), with a minority of them in process, cancelled, on hold, resolved or disputed.
+- The vast majority of orders are shipped (93.16%), with a minority of them in process, cancelled, on hold, resolved or disputed.
 
-- The most frequently ordered products belong to the Classic Cars, Vintage Cars, and Motorcycles product lines. More data would be needed to inferre if these products are for personal use.
+- The most frequently ordered products belong to the Classic Cars, Vintage Cars, and Motorcycles product lines. More data would be needed to inferr if these products are for personal use.
 
 - When beaking down the orders's count by region the majority of orders are placed from Europe followed closely by North America. However, breaking down the orders's count by country, the majority are placed from USA.
 
@@ -63,22 +63,22 @@ Bellow the column names and a brief descriction of each column is presented:
     
 #### 2. Discriptive statistics for some of the numerical variables at the **order item-level** (row-level).
 
-- Removal of Cancelled, On Hold and Disputed orders was done, in order to analysize the variables.
+- Removal of Cancelled, On Hold and Disputed orders was done, in order to analize the variables.
 
-- The average quantity ordered (QUANTITYORDERED) for each item in an order is approximately 34,93 ± 9,36 units.
-The distribution appears to be approximately symmetric (skewness ≈ 0,24), but with a slight platykurtic shape (kurtosis ≈ -0,08), indicating a flatter shape with light tails, thus suggesting slightly less prone towards outliers distribution, compared to the normal distribution.
+- The average quantity ordered (QUANTITYORDERED) for each item in an order is approximately 34.93 ± 9.36 units.
+The distribution appears to be approximately symmetric (skewness ≈ 0.24), but with a slight platykurtic shape (kurtosis ≈ -0.08), indicating a flatter shape with light tails, thus suggesting slightly less prone towards outliers distribution, compared to the normal distribution.
 
-- The average unit price (PRICEEACH) for each item in an order is approximately 83,64 ± 20,24 currency.
-The distribution appears to be moderately to highly left-skewed (skewness ≈ -0,94), due to the fact that, as per the dataset's author's comments, prices over 100 are capped at 100 currency causing most of the prices to crowd at the upper end of the distribution.
-It also appears to have a slightly platykurtic shape (kurtosis ≈ -0,39), indicating a flatter shape with lighter tails, thus suggesting it is slightly less prone to outliers, compared to the normal distribution.
+- The average unit price (PRICEEACH) for each item in an order is approximately 83.64 ± 20.24 currency.
+The distribution appears to be moderately to highly left-skewed (skewness ≈ -0.94), due to the fact that, as per the dataset's author's comments, prices over 100 are capped at 100 currency causing most of the prices to crowd at the upper end of the distribution.
+It also appears to have a slightly platykurtic shape (kurtosis ≈ -0.39), indicating a flatter shape with lighter tails, thus suggesting it is slightly less prone to outliers, compared to the normal distribution.
 
-- The average sales (SALES) for each item in an order is approximately 3544,38 ± 1819,72 currency.
-The distribution appears to be highly right-skewed (skewness ≈ 1,12), indicating a tendency for a few higher priced sales to pull the mean upwards.
-It also appears to have a highly leptokurtic shape (kurtosis ≈ 1,50), suggesting it is peaked and more prone to outliers, compared to the normal distribution.
+- The average sales (SALES) for each item in an order is approximately 3544.38 ± 1819.72 currency.
+The distribution appears to be highly right-skewed (skewness ≈ 1.12), indicating a tendency for a few higher priced sales to pull the mean upwards.
+It also appears to have a highly leptokurtic shape (kurtosis ≈ 1.50), suggesting it is peaked and more prone to outliers, compared to the normal distribution.
 
-- The average Manufacturer's Suggested Retail Price (MSRP) for each item in an order is approximately 100,89 ± 40,44 currency.
-The distribution appears to be moderately right-skewed (skewness ≈ 0,58), indicating a tendency for a few higher priced units to pull the mean upwards
-It also appears to have a slightly platykurtic shape (kurtosis ≈ -0,15, suggesting it is flatter and lightly less prone to outliers, compared to the normal distribution.
+- The average Manufacturer's Suggested Retail Price (MSRP) for each item in an order is approximately 100.89 ± 40.44 currency.
+The distribution appears to be moderately right-skewed (skewness ≈ 0.58), indicating a tendency for a few higher priced units to pull the mean upwards
+It also appears to have a slightly platykurtic shape (kurtosis ≈ -0.15, suggesting it is flatter and lightly less prone to outliers, compared to the normal distribution.
 
 - Since on average MSRP > PRICEEACH, then that means that the business on average sells bellow the full price of each product.
 
@@ -88,17 +88,17 @@ It also appears to have a slightly platykurtic shape (kurtosis ≈ -0,15, sugges
 
 - Removal of Cancelled, On Hold and Disputed orders was done, in order to analysize the variables.
 
-- The average quantity ordered (QUANTITYORDERED) for each order is approximately 320,91 ± 174,88 products.
-The distribution appears to be approximately symmetric (skewness ≈ 0,08), but with a highly platykurtic shape (kurtosis ≈ -1,02) indicating a flatter shape with lighter tails, thus suggesting it is less prone to outliers, compared to the normal distribution.
+- The average quantity ordered (QUANTITYORDERED) for each order is approximately 320.91 ± 174.88 units.
+The distribution appears to be approximately symmetric (skewness ≈ 0.08), but with a highly platykurtic shape (kurtosis ≈ -1.02) indicating a flatter shape with lighter tails, thus suggesting it is less prone to outliers, compared to the normal distribution.
 
-- The average total unit price (PRICEEACH) in each order is approximately 768,37 ± 418,08 currency.
-The distribution appears to be approximately symmetric (skewness ≈ 0,00), but with a highly platykurtic shape (kurtosis ≈ -1,14) indicating a flatter shape with lighter tails, thus suggesting it is less prone to outliers, compared to the normal distribution.
+- The average total unit price (PRICEEACH) in each order is approximately 768.37 ± 418.08 currency.
+The distribution appears to be approximately symmetric (skewness ≈ 0.00), but with a highly platykurtic shape (kurtosis ≈ -1.14) indicating a flatter shape with lighter tails, thus suggesting it is less prone to outliers, compared to the normal distribution.
 
-- The average sales (SALES) for each order is approximately 32559,38 ± 17691,56 currency.
-The distribution appears to be approximately symmetric (skewness ≈ 0,03), but with a moderately to highly platykurtic shape (kurtosis ≈ -0,93) indicating a flatter shape with lighter tails, thus suggesting it is less prone to outliers, compared to the normal distribution.
+- The average sales (SALES) for each order is approximately 32559.38 ± 17691.56 currency.
+The distribution appears to be approximately symmetric (skewness ≈ 0.03), but with a moderately to highly platykurtic shape (kurtosis ≈ -0.93) indicating a flatter shape with lighter tails, thus suggesting it is less prone to outliers, compared to the normal distribution.
 
-- The average Manufacturer's Suggested Retail Price (MSRP) for each order is approximately 926,84 ± 509,24 products.
-The distribution appears to be approximately symmetric (skewness ≈ 0,01), but with a platykurtic shape (kurtosis ≈ -1,06) indicating a flatter shape with lighter tails, thus suggesting it is less prone to outliers, compared to the normal distribution.
+- The average Manufacturer's Suggested Retail Price (MSRP) for each order is approximately 926.84 ± 509.24 products.
+The distribution appears to be approximately symmetric (skewness ≈ 0.01), but with a platykurtic shape (kurtosis ≈ -1.06) indicating a flatter shape with lighter tails, thus suggesting it is less prone to outliers, compared to the normal distribution.
 
 - Since on average MSRP > PRICEEACH, then that means that the business on average sells bellow the full price of each order.
 
@@ -224,6 +224,6 @@ However, considering that the average order value from Switzerland is the highes
 #### 4. **Average discount rate** per **country** and **region**.
 
 - On average most orders are discounted, a fact encountered in Q.II.3. 
-- On average, by country the most discounted orders are for Switzerland (18,61%), while the least discounted orders are for Spain (6,68%).
-- On average, by territory the most discounted orders are for Japan (12,75%), while the least discounted orders are for APAC (8,60%).
+- On average, by country the most discounted orders are for Switzerland (18.61%), while the least discounted orders are for Spain (6.68%).
+- On average, by territory the most discounted orders are for Japan (12.75%), while the least discounted orders are for APAC (8.60%).
 
