@@ -38,7 +38,8 @@ Bellow the column names and a brief descriction of each column is presented:
 | `DEALSIZE`         | Deal size classification (Small, Medium, Large)            |
 
 
-Since total orders < number of rows, then this means that each product purchased in an order is listed in a different row than the other ones, with the ORDERLINENUMBER column indicating the way that the products were placed in the order.
+**Note:** By grouping the data by `ORDERNUMBER`, it is noted that `total orders` < `number of rows`.
+This fact, along with the fact that no dublicate rows were found, indicates that each product purchased in an order, is listed in a different row than the other ones, with the `ORDERLINENUMBER` column indicating the way that the products were placed in the order.
 
 
 **IΙ. Univariate Analysis**
