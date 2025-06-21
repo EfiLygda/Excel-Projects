@@ -43,21 +43,21 @@ Grouping, aggregation, sorting and ranking was done, when necessary.
 
 |Group| Function Name |Usage|
 |-----|---------------|-----|
-|Math & Statistics|`MAX`/`MIN`||
-||`SUM`/`SUMIFS`||
-||`COUNT`/`COUNTA`/`COUNTIFS`/`COUNTBLANK`||
-||`AVERAGE`/`AVERAGEIFS`|Non/Filtered calculations of averages|
-||`STDEV.S`/`MEDIAN`/`SKEW`/`KURT`||
-||`QUARTILE.INC`||
+|Math & Statistics|`MAX`/`MIN`|Min/max calculations|
+||`SUM`/`SUMIFS`|Filtered and non-filtered sum calculations|
+||`COUNT`/`COUNTA`/`COUNTIFS`/`COUNTBLANK`|Filtered and non-filtered count calculations|
+||`AVERAGE`/`AVERAGEIFS`|Filtered and non-filtered calculations of averages|
+||`STDEV.S`/`MEDIAN`/`SKEW`/`KURT`|Descriptive statistics for studying distribution shape|
+||`QUARTILE.INC`|Quartile calculations for outlier detection|
 ||||
-|Logical Functions|`IF`/`IFERROR`||
-||`NOT`/`OR`/`ISNA`||
+|Logical Functions|`IF`/`IFERROR`|Conditional programming|
+||`NOT`/`OR`/`ISNA`|Basic logical function, used primarily along with `IF`|
 ||||
-|Text|`MID`||
-||`TEXTJOIN`||
-||`TEXT`/`VALUE`||
+|Text|`MID`|Used for extracting text|
+||`TEXTJOIN`|Used for joining text in ranges|
+||`TEXT`/`VALUE`|Converting to text or numerical|
 ||||
-|Reference & Lookup|`COLUMNS`/`ROWS`||
+|Reference & Lookup|`COLUMNS`/`ROWS`|Calculate number of |
 ||`FILTER`/`INDEX`/`TAKE`||
 ||`MATCH`||
 ||`VLOOKUP`||
