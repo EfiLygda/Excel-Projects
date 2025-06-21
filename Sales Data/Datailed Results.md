@@ -226,5 +226,5 @@ However, considering that the average order value from Switzerland is the highes
 - On average, by country the most discounted orders are for Switzerland (18.61%), while the least discounted orders are for Spain (6.68%).
 - On average, by territory the most discounted orders are for Japan (12.75%), while the least discounted orders are for APAC (8.60%).
 
-# Brief Results
+
 
