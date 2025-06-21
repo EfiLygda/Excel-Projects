@@ -49,7 +49,7 @@ Grouping, aggregation, sorting and ranking was done, when necessary.
 ||`AVERAGE`/`AVERAGEIFS`|Non/Filtered calculations of averages|
 ||`STDEV.S`/`MEDIAN`/`SKEW`/`KURT`||
 ||`QUARTILE.INC`||
-
+||||
 |Logical Functions|`IF`/`IFERROR`||
 ||`NOT`/`OR`/`ISNA`||
 
