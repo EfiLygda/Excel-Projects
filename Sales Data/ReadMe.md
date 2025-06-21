@@ -83,7 +83,40 @@ TODO
 
 ## Insights
 
-TODO
+- Order items for each order are listed in different rows, resulting to more than one rows for each order.
+- All observations in the dataset include relevant data, with most missing values occuring for the second adress line, state or postal code.
+
+
+- Most frequently ordered products belong to the Classic Cars, Vintage Cars, and Motorcycles product lines.
+- When beaking down the orders's count by region the majority of orders are placed from Europe followed closely by North America. However, breaking down the orders's count by country, the majority are placed from USA.
+- On average approximately 34.93 ± 9.36 units are ordered by product, but 320.91 ± 174.88 units by order.
+- On average approximately the price of a product ordered is 83.64 ± 20.24, but the total price of an order is approximately 768.37 ± 418.08.
+- On average approximately the sale of a product ordered is 3544.38 ± 1819.72, but the total sales of an order are approximately 32559.38 ± 17691.56.
+- On average approximately the MSRP of a product ordered is 100.89 ± 40.44, but the total price of an order is approximately 926.84 ± 509.24.
+- Since on average MSRP > price of each product, then that means that the business on average sells bellow the full price.
+- Comparing the analysis done at the item-level with the analysis done at order-level, the distributions at the order level appear more robust  by being generally more symmetric and significantly less prone to outliers.
+- On average, outliers exist for item sales in the upper end of sales and quantity ordered.
+
+### Sales & Pricing Analysis
+
+
+### Customer Behavior
+
+
+### Geographic Patterns
+
+
+### Temporal Trends
+
+
+### Product Line Insights
+
+
+### Order Status & Performance
+
+
+### Operational Insights
+
 
 ## License
 > The dataset used in this project is licensed under the [CC BY-NC-SA 3.0 license](https://creativecommons.org/licenses/by-nc-sa/3.0/) and is available at [Kaggle](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data/data).
