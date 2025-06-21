@@ -52,24 +52,24 @@ Grouping, aggregation, sorting and ranking was done, when necessary.
 ||||
 |Logical Functions|`IF`/`IFERROR`||
 ||`NOT`/`OR`/`ISNA`||
-
+||||
 |Text|`MID`||
 ||`TEXTJOIN`||
 ||`TEXT`/`VALUE`||
-
+||||
 |Reference & Lookup|`COLUMNS`/`ROWS`||
 ||`FILTER`/`INDEX`/`TAKE`||
 ||`MATCH`||
 ||`VLOOKUP`||
 ||`OFFSET`||
-
+||||
 |Dynamic Arrays & Sorting|`SORT`||
 ||`UNIQUE`||
 ||`TRANSPOSE`||
 ||`HSTACK`||
-
+||||
 |Data Grouping|`GROUPBY`/`PIVOTBY`||
-
+||||
 |Programming|`MAP`/`LAMBDA`||
 ||`CHOOSE`||
 ||`SEQUENCE`||
