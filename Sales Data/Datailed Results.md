@@ -4,7 +4,7 @@ Bellow the insights from the questions are presented in detail.
 
 -------------------
 
-**I. Indroduction to the Dataset**
+## **I. Indroduction to the Dataset**
 
 The number of rows of the dataset is 2823, while the number of columns is 25. 
 Bellow the column names and a brief descriction of each column is presented:
@@ -42,22 +42,22 @@ Bellow the column names and a brief descriction of each column is presented:
 This fact, along with the fact that no dublicate rows were found, indicates that each product purchased in an order, is listed in a different row than the other ones, with the `ORDERLINENUMBER` column indicating the way that the products were placed in the order.
 
 
-**IΙ. Univariate Analysis**
+## **IΙ. Univariate Analysis**
 
-1. **Missing values** and **frequencies** for some of the categorical variables.
+### 1. **Missing values** and **frequencies** for some of the categorical variables.
 
 **Insights:**
-    1. All observations in the dataset include relevant data, with most missing values occuring for the second adress line, state and then postal code.
-    
-    2. The vast majority of orders are shipped (93,16%), with a minority of them in process, cancelled, on hold, resolved or disputed.
-    
-    3.The most frequently ordered products belong to the Classic Cars, Vintage Cars, and Motorcycles product lines. More data would be needed to inferre if these products are for personal use.
-    
-    4. When beaking down the orders's count by region the majority of orders are placed from Europe followed closely by North America. However, breaking down the orders's count by country, the majority are placed from USA.
+1. All observations in the dataset include relevant data, with most missing values occuring for the second adress line, state and then postal code.
 
-    5. Most orders do not list a state, but for USA based clients most orders were placed from California.
+2. The vast majority of orders are shipped (93,16%), with a minority of them in process, cancelled, on hold, resolved or disputed.
 
-    6. Madrid, Spain is the most frequent city by order count, with 31 orders recorded. This aligns with the broader trend of significant European participation in orders.
+3.The most frequently ordered products belong to the Classic Cars, Vintage Cars, and Motorcycles product lines. More data would be needed to inferre if these products are for personal use.
+
+4. When beaking down the orders's count by region the majority of orders are placed from Europe followed closely by North America. However, breaking down the orders's count by country, the majority are placed from USA.
+
+5. Most orders do not list a state, but for USA based clients most orders were placed from California.
+
+6. Madrid, Spain is the most frequent city by order count, with 31 orders recorded. This aligns with the broader trend of significant European participation in orders.
 
     
 2. Discriptive statistics for some of the numerical variables at the **order item-level** (row-level).
