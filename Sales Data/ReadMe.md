@@ -36,35 +36,35 @@ In this project, dynamic arrays were mostly used to answer the questions, withou
   
         - [1. Quick summary of **total item sales** over the years by each **quarter**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#1-quick-summary-of-total-item-sales-over-the-years-by-each-quarter)
     
-[2. Average **monthly discount rate** for each **product line**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#2-average-monthly-discount-rate-for-each-product-line)
+        - [2. Average **monthly discount rate** for each **product line**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#2-average-monthly-discount-rate-for-each-product-line)
     
-[**B. Sales and Revenue**](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#b-sales-and-revenue)
+    - [**B. Sales and Revenue**](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#b-sales-and-revenue)
   
-[1. Top 5 **countries** and **regions** that generate the **most revenue** from purchases.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#1-top-5-countries-and-regions-that-generate-the-most-revenue-from-purchases)
+        - [1. Top 5 **countries** and **regions** that generate the **most revenue** from purchases.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#1-top-5-countries-and-regions-that-generate-the-most-revenue-from-purchases)
     
-[2. **Average order value** by **country**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#2-average-order-value-by-country)
+        - [2. **Average order value** by **country**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#2-average-order-value-by-country)
     
-[3. Top 10 **countries** by **order volume**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#3-top-10-countries-by-order-volume)
+        - [3. Top 10 **countries** by **order volume**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#3-top-10-countries-by-order-volume)
     
-[**C. Customer Behaviour**](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#c-customer-behaviour)
+    - [**C. Customer Behaviour**](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#c-customer-behaviour)
   
-[1. Top and bottom 5 **customers** by **orders** placed.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#1-top-and-bottom-5-customers-by-orders-placed)
+        - [1. Top and bottom 5 **customers** by **orders** placed.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#1-top-and-bottom-5-customers-by-orders-placed)
     
-[2. Top and bottom 5 customers by **average individual** order item **sales**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#2-top-and-bottom-5-customers-by-average-individual-order-item-sales)
+        - [2. Top and bottom 5 customers by **average individual** order item **sales**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#2-top-and-bottom-5-customers-by-average-individual-order-item-sales)
     
-[3. **Countries** sorted from the highest to least amount of **return customers**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#3-countries-sorted-from-the-highest-to-least-amount-of-return-customers)
+        - [3. **Countries** sorted from the highest to least amount of **return customers**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#3-countries-sorted-from-the-highest-to-least-amount-of-return-customers)
     
-[4. Most popular **product lines** by **region** and **country**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#4-most-popular-product-lines-by-region-and-country)
+        - [4. Most popular **product lines** by **region** and **country**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#4-most-popular-product-lines-by-region-and-country)
     
-[**D. Product-Level Analysis**](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#d-product-level-analysis)
+    - [**D. Product-Level Analysis**](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#d-product-level-analysis)
   
-[1. Top and bottom 10 **most ordered products**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#1-top-and-bottom-10-most-ordered-products)
+        - [1. Top and bottom 10 **most ordered products**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#1-top-and-bottom-10-most-ordered-products)
     
-[2. Top and bottom 5 **products** by **order volume**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#2-top-and-bottom-5-products-by-order-volume)
+        - [2. Top and bottom 5 **products** by **order volume**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#2-top-and-bottom-5-products-by-order-volume)
     
-[3. Top **product lines** based on **total sales**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#3-top-product-lines-based-on-total-sales)
+        - [3. Top **product lines** based on **total sales**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#3-top-product-lines-based-on-total-sales)
     
-[4. **Average discount rate** per **country** and **region**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#4-average-discount-rate-per-country-and-region)
+        - [4. **Average discount rate** per **country** and **region**.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#4-average-discount-rate-per-country-and-region)
 
 
 ## Tools Used
