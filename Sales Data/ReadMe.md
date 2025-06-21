@@ -41,34 +41,34 @@ Grouping, aggregation, sorting and ranking was done, when necessary.
 
 ### 3. Functions Used
 
-|Group| Function Name |Usage|
+|Group| Function Name |Functionality|
 |-----|---------------|-----|
 |Math & Statistics|`MAX`/`MIN`|Min/max calculations|
 ||`SUM`/`SUMIFS`|Used for filtered/non-filtered sum calculations|
 ||`COUNT`/`COUNTA`/`COUNTIFS`/`COUNTBLANK`|Used for filtered/non-filtered count calculations|
 ||`AVERAGE`/`AVERAGEIFS`|Used for filtered/non-filtered calculations of averages|
-||`STDEV.S`/`MEDIAN`/`SKEW`/`KURT`|Descriptive statistics for studying distribution shape|
+||`STDEV.S`/`MEDIAN`/`SKEW`/`KURT`|Descriptive statistics used for distribution shape evaluation|
 ||`QUARTILE.INC`|Quartile calculations for outlier detection|
 ||||
-|Logical Functions|`IF`/`IFERROR`|Conditional programming|
-||`NOT`/`OR`/`ISNA`|Basic logical function, used primarily along with `IF`|
+|Logical Functions|`IF`/`IFERROR`|Used for conditional checks|
+||`NOT`/`OR`/`ISNA`|Basic logical functions, used primarily along with `IF`|
 ||||
 |Text|`MID`|Used for extracting text|
-||`TEXTJOIN`|Used for joining text in ranges|
-||`TEXT`/`VALUE`|Converting to text or numerical|
+||`TEXTJOIN`|Used for joining text in ranges, mainly unique values|
+||`TEXT`/`VALUE`|Converting to text or numerical, respectively|
 ||||
-|Reference & Lookup|`COLUMNS`/`ROWS`|Calculate number of columns or rows|
-||`FILTER`/`INDEX`/`TAKE`|Filter table when need, usually used in combination|
-||`MATCH`|Usually finding exact match in combination with the above|
-||`VLOOKUP`|Lookup value vertically and extract the value in another column|
-||`OFFSET`|Used for automating calculation when used with the main table in file|
+|Reference & Lookup|`COLUMNS`/`ROWS`|Used for calculating number of columns or rows|
+||`FILTER`/`INDEX`/`TAKE`|Filter table when need, usually used in combination for extracting data|
+||`MATCH`|Mainly used for finding exact match, usually in combination with the above functions|
+||`VLOOKUP`|Used for finding values vertically of table and extracting the value in the same row but in another column|
+||`OFFSET`|Used for automating calculations, when other functions cannot be used|
 ||||
 |Dynamic Arrays & Sorting|`SORT`|Used when sorting (ascending or descending)|
-||`UNIQUE`|Finding unique functions|
-||`TRANSPOSE`|Transposing range|
-||`HSTACK`|Stacking columns in one table horizontally|
+||`UNIQUE`|Used for finding unique values|
+||`TRANSPOSE`|Used for transposing|
+||`HSTACK`|Used for stacking columns in one table horizontally|
 ||||
-|Data Grouping|`GROUPBY`/`PIVOTBY`|`GROUPBY` is mainly used for grouping, while `PIVOTBY` is used in III.A.2|
+|Data Grouping|`GROUPBY`/`PIVOTBY`|`GROUPBY` is mainly used for grouping, while `PIVOTBY` only is used in III.A.2|
 ||||
 |Programming|`MAP`/`LAMBDA`|Used in combination to map the function defined in `LAMBDA`. Also used with `GROUPBY`|
 ||`CHOOSE`|Used to build dynamic tables or plots|
