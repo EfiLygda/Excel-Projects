@@ -28,15 +28,15 @@ The whole project is located in workbook `Sales_Data_Project.xlsx`, which contai
 
 ## Questions
 
-II. Univariate Analysis
+**II. Univariate Analysis**
 
-    1. Missing values and frequencies for some of the categorical variables.
+1. Missing values and frequencies for some of the categorical variables.
     
-    2. Discriptive statistics for some of the numerical variables at the order item-level (row-level).
+2. Discriptive statistics for some of the numerical variables at the order item-level (row-level).
     
-    3. Discriptive statistics for some of the numerical variables at the order-level.
+3. Discriptive statistics for some of the numerical variables at the order-level.
     
-    4. Extreme outliers in item sales.
+4. Extreme outliers in item sales.
     
 II. Multivariate Analysis
 
