@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [I. Indroduction to the Dataset](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#i-indroduction-to-the-dataset)
+- [I. Indroduction to the Dataset](## I. Indroduction to the Dataset)
 
 - [II. Univariate Analysis](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#i%CE%B9-univariate-analysis)
 
