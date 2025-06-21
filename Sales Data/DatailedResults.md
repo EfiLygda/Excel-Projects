@@ -4,6 +4,7 @@
 
 - [I. Indroduction to the Dataset](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/DatailedResults.md#i-indroduction-to-the-dataset)
 
+
 - [II. Univariate Analysis](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/DatailedResults.md#i%CE%B9-univariate-analysis)
 
     - [1. Missing values and frequencies.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/DatailedResults.md#1-missing-values-and-frequencies-for-some-of-the-categorical-variables)
