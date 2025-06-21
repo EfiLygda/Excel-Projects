@@ -15,7 +15,7 @@ In this project, dynamic arrays were mostly used to answer the questions, withou
     - `S1. Answers`: Contains the answers to the questions for the analysis.
     - `S2. Small Dashboard`: Contains a small dashboard providing a quick summary of the product lines by each order status
 
-- In [`Detailed Results`](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#datailed-results) the questions and the detailed insights infered from the data are located.
+- In [`DetailedResults`](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#datailed-results) the questions and the detailed insights infered from the data are located.
 
 ## Tools Used
 
@@ -24,7 +24,58 @@ In this project, dynamic arrays were mostly used to answer the questions, withou
 
 ## Methods
 
-TODO
+### 1. Data Handling & Preparation
+
+The original `csv` file was converted to `xlsx` using `Microsoft Excel 365`.
+There were no dublicates rows using as primary keys the unique order number and order line number for each order, so no rows were removed.
+Cancelled, On Hold or Disputed orders were removed from the analysis when revenue was analized, but not when customer behaviour was studied. 
+
+
+### 2. Analytical Techniques
+
+Descriptive statistics such as `mean`, `median`, `std. dev.`, `skewness` and `kurtosis` were used to study the distributions of numerical variables, identifying skewed variables or heavy tails.
+Grouping, aggregation, sorting and ranking was done, when necessary.
+
+
+
+
+### 3. Functions Used
+
+|Group| Function Name |Usage|
+|-----|---------------|-----|
+|Math & Statistics|`MAX`/`MIN`||
+||`SUM`/`SUMIFS`||
+||`COUNT`/`COUNTA`/`COUNTIFS`/`COUNTBLANK`||
+||`AVERAGE`/`AVERAGEIFS`|Non/Filtered calculations of averages|
+||`STDEV.S`/`MEDIAN`/`SKEW`/`KURT`||
+||`QUARTILE.INC`||
+
+|Logical Functions|`IF`/`IFERROR`||
+||`NOT`/`OR`/`ISNA`||
+
+|Text|`MID`||
+||`TEXTJOIN`||
+||`TEXT`/`VALUE`||
+
+|Reference & Lookup|`COLUMNS`/`ROWS`||
+||`FILTER`/`INDEX`/`TAKE`||
+||`MATCH`||
+||`VLOOKUP`||
+||`OFFSET`||
+
+|Dynamic Arrays & Sorting|`SORT`||
+||`UNIQUE`||
+||`TRANSPOSE`||
+||`HSTACK`||
+
+|Data Grouping|`GROUPBY`/`PIVOTBY`||
+
+|Programming|`MAP`/`LAMBDA`||
+||`CHOOSE`||
+||`SEQUENCE`||
+||`HYPERLINK`||
+||`LET`||
+
 
    
 
