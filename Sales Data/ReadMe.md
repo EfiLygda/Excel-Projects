@@ -15,24 +15,11 @@ In this project, dynamic arrays were mostly used to answer the questions, withou
     - `S1. Answers`: Contains the answers to the questions for the analysis.
     - `S2. Small Dashboard`: Contains a small dashboard providing a quick summary of the product lines by each order status
 
-- In `Detailed Results` the detailed insights from the data are located.
+- In `Detailed Results` the questions and the detailed insights infered from the data are located.
 
 TODO: TOC for results
-
-## Tools Used
-
-`Microsoft Excel 365`
-
-
-## Methods
-
-TODO
-
-
-
-## Questions
-
-**I. Univariate Analysis**
+[I. Indroduction to the Dataset](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#i-indroduction-to-the-dataset)
+**II. Univariate Analysis**
 
 1. **Missing values** and **frequencies** for some of the categorical variables.
     
@@ -42,7 +29,7 @@ TODO
     
 4. **Extreme outliers** in item sales.
     
-**II. Multivariate Analysis**
+**III. Multivariate Analysis**
 
 **A. Seasonality**
   
@@ -77,7 +64,18 @@ TODO
 3. Top **product lines** based on **total sales**.
     
 4. **Average discount rate** per **country** and **region**.
-    
+
+
+## Tools Used
+
+`Microsoft Excel 365`
+
+
+## Methods
+
+TODO
+
+   
 
 
 ## Insights
