@@ -19,9 +19,7 @@ In this project, dynamic arrays were mostly used to answer the questions, withou
 
 
 [I. Indroduction to the Dataset](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#i-indroduction-to-the-dataset)
-
 [II. Univariate Analysis](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#i%CE%B9-univariate-analysis)
-
 [1. **Missing values** and **frequencies** for some of the categorical variables.](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#1-missing-values-and-frequencies-for-some-of-the-categorical-variables)
     
 2. Discriptive statistics for some of the numerical variables at the **order item-level** (row-level).
