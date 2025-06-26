@@ -2,7 +2,7 @@
 
 An exploratory data analysis (EDA) project focused on understanding sales patterns across customers, regions, and order statuses. 
 The analysis was done in `Excel 365`, and leverages descriptive statistics and visualizations to generate insights into pricing, product lines, and sales behavior.
-By design, dynamic arrays were mostly used to answer the questions, without relying on traditional pivot tables, except for the use of the 'PIVOTBY()' function in one instance, as indicated below.
+By design, dynamic arrays were mostly used to answer the questions, without relying on traditional pivot tables, except for the use of the `PIVOTBY()` function in one instance, as indicated below.
 
 ------------------------
 
