@@ -8,7 +8,7 @@ An exploratory data analysis (EDA) project focused on understanding sales patter
 The analysis was done in `Excel 365`, and leverages descriptive statistics and visualizations to generate insights into pricing, product lines, and sales behavior.
 By design, dynamic arrays were mostly used to answer the questions, without relying on traditional pivot tables, except for the use of the `PIVOTBY()` function in one instance, as indicated below.
 
-In `[./Sales Data/ReadMe.md](https://github.com/EfiLygda/Excel-Projects/tree/main/Sales%20Data#sales-data-eda)` the details of the project are located.
+In [`./Sales Data/ReadMe.md`](https://github.com/EfiLygda/Excel-Projects/tree/main/Sales%20Data#sales-data-eda) the details of the project are located.
 
 ---------------------
 
