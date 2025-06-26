@@ -25,7 +25,7 @@ In [`./Sales Data/ReadMe.md`](https://github.com/EfiLygda/Excel-Projects/tree/ma
     - `S1. Answers`: Contains the answers to the questions for the analysis.
     - `S2. Small Dashboard`: Contains a small dashboard providing a quick summary of the product lines by each order status
 
-- In [`DetailedResults`](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/Datailed%20Results.md#datailed-results) the questions and the detailed insights infered from the data are located.
+- In [`DetailedResults`](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/DatailedResults.md#datailed-results) the questions and the detailed insights infered from the data are located.
 
 - In [`FunctionsUsed`](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/FunctionsUsed.md) the Excel 365 functions used in the project are presented, in detail.
 
