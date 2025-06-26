@@ -27,7 +27,7 @@ In [`./Sales Data/ReadMe.md`](https://github.com/EfiLygda/Excel-Projects/tree/ma
 
 - In [`DetailedResults`](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/DatailedResults.md#datailed-results) the questions and the detailed insights infered from the data are located.
 
-- In [`FunctionsUsed`](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/FunctionsUsed.md) the Excel 365 functions used in the project are presented, in detail.
+- In [`FunctionsUsed`](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/FunctionsUsed.md#functions-used) the Excel 365 functions used in the project are presented, in detail.
 
 #### Functions Used
 
