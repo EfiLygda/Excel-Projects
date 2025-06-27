@@ -29,7 +29,12 @@ In [`Sales Data/ReadMe.md`](https://github.com/EfiLygda/Excel-Projects/tree/main
 
 - In [`FunctionsUsed`](https://github.com/EfiLygda/Excel-Projects/blob/main/Sales%20Data/FunctionsUsed.md#functions-used) the Excel 365 functions used in the project are presented, in detail.
 
-#### Functions Used
+
+> [!NOTE] 
+> The dataset used in this project is licensed under the [CC BY-NC-SA 3.0 license](https://creativecommons.org/licenses/by-nc-sa/3.0/) and is available at [Kaggle](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data/data).
+
+
+## Functions Used
 
 The functions used were mainly for:
 - **Math & Statistics** calculations and aggregations (`AVERAGE/AVERAGEIFS`, `STDEV.S`, `SKEW`, `KURT` etc.)
@@ -38,9 +43,6 @@ The functions used were mainly for:
 - **Data Grouping & Aggregation** (`GROUPBY/PIVOTBY`)
 - **Enabling procedural-style programming within Excel formulas** (`LET`, `MAP`, `LAMBDA` etc.)
 - **Text Manipulation** (`TEXTJOIN`, `MID` etc.)
-
-> [!NOTE] 
-> The dataset used in this project is licensed under the [CC BY-NC-SA 3.0 license](https://creativecommons.org/licenses/by-nc-sa/3.0/) and is available at [Kaggle](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data/data).
 
 ## Licensing
 
